@@ -1,4 +1,4 @@
-# 3d-realistic-models
+# 3d hyper-realistic models
 Project 1: Transforming Mannequins into Photorealistic Models
 Repo:  https://colab.research.google.com/drive/1VU0sQ99VHOj2j0vXMHkXwr0O-AAc7v6h?usp=sharing
 Project Overview:
