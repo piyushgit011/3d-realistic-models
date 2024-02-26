@@ -23,3 +23,12 @@ Fooocus Software GitHub
 The combination of these sophisticated models and techniques culminates in the creation of photorealistic images where mannequins are seamlessly transformed into human models, offering a cost-effective and scalable solution for digital fashion showcases.
 For a detailed walkthrough of the process and to view sample outputs
 
+![1](https://github.com/piyushgit011/3d-realistic-models/assets/96625965/0d98a887-d517-4231-952c-2f39e399cf73)
+
+![4](https://github.com/piyushgit011/3d-realistic-models/assets/96625965/61b20da3-db1e-429a-85bc-a650b4bb72aa)
+
+![7](https://github.com/piyushgit011/3d-realistic-models/assets/96625965/52865ec9-c283-4d78-b5bc-2826997fdaa8)
+
+
+
+
